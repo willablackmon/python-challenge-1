@@ -5,11 +5,11 @@
 This Script Presents an Interactive Food Ordering System from a food truck menu.
 
 The menu includes simple nested dictionaries.  Take inputs from the user and:
-+ storing the customer order
-+ printing the receipt at the end with each line item orderd and total price of all items ordered. 
++ store the customer order
++ print the receipt at the end, with each line item orderd and total price of all items ordered. 
 
 
-
+## Process
 1. Present the top level menus to the user (with prices).
 2. Prompt the customer to enter the Menu.
 3. Validate inputs (entry type, presence of the item on the menu).
@@ -28,8 +28,8 @@ The menu includes simple nested dictionaries.  Take inputs from the user and:
    2. Total price of order
 
 
-# Develpment Notes 
-## Storing Customer Order
+## Development Notes 
+### Storing Customer Order
 
 1.  This list will store the customer's order in dictionary format: 
 
