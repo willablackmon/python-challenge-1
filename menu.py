@@ -50,21 +50,6 @@ menu = {
     }
 }
 
-# 1.  Create an empty list.  This list will store the customer's order in dictionary format: 
-
-# >      [
-# >        {
-# >         "Item name": "string",
-# >         "Price": float,
-# >         "Quantity": int
-# >       },
-# >       {
-# >         "Item name": "string",
-# >         "Price": float,
-# >         "Quantity": int
-# >       },
-# >     ]
-
 
 # 1. Set up order list. Order list will store a list of dictionaries for
 # menu item name, item price, and quantity ordered
